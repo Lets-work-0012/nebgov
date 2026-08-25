@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/deploy-signal-anchor-testnet",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/deploy-signal-anchor-testnet": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/deploy-signal-anchor-testnet",
+    "origin"
+  ]
+}
